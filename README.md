@@ -9,11 +9,11 @@ A simple web application built using Flask that generates a styled calendar base
 - Python (Flask)
 - HTML
 - CSS
-##▶️ How to Run:
+## How to Run:
 1. Install Flask
 2. Run app.py
 3. Open localhost in browser
-##📌Future Improvements:
+##Future Improvements:
 • Add previous/next month navigation
 • Add current month auto-display
 • Improve UI design
