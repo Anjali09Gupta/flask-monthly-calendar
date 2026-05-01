@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Calendar</title>
+
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="{flask-monthly-calendar\static\style.css}">
+</head>
+
+<body>
+    <h1>📅 My Calendar</h1>
+
+    <!-- Container for calendar -->
+    <div class="calendar-container">
+        {{ calendar | safe }}
+    </div>
+
+</body>
+</html>
